@@ -73,6 +73,8 @@
 
 :dart:**摸鱼**
 
-<img src="./assets/qianshu.gif" width="100%"/>
+<img src="./assets/qianshu.gif" style="width:95%;height:350px"/>
+<!--
+<img src="./assets/Cache_-2005800c9e115675.jpg" />-->
 
-<img src="./assets/Cache_-2005800c9e115675.jpg" />
+
