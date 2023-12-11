@@ -1,4 +1,4 @@
-![hiim-yuankang-gong](D:\Desktop\boygong\assets\hiim-yuankang-gong.svg)
+![hiim-yuankang-gong](./assets/helloyuankang-gong.svg)
 
 
 
@@ -10,9 +10,10 @@
     <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=boygong&theme=tokyonight-duo&border_radius=4.8&date_format=j%20M%5B%20Y%5D&card_width=400" alt="boygong's github"/></a>
     -
     <a href='#'>
-    	<img src="https://github-readme-stats.vercel.app/api?username=boygong&show_icons=true" alt="boygong's github"  />
+    	<img src="https://github-readme-stats.vercel.app/api?username=boygong&show_icons=true&theme=tokyonight" alt="boygong's github"  />
     </a>
 </div>
+
 
 -   :heart: Computer, Physics, Mathematics
 -   :email: [Yuankang.Gong](mailto:2270499893@qq.com)
@@ -46,10 +47,10 @@
 
 <div align="center">
     <a href="https://github.com/boygong/sky-take-out">
-    	<img src="https://github-readme-stats.vercel.app/api/pin/?username=boygong&repo=sky-take-out" alt="SkyTakeOut Card" width="45%"/>
+    	<img src="https://github-readme-stats.vercel.app/api/pin/?username=boygong&repo=sky-take-out&theme=tokyonight" alt="SkyTakeOut Card" width="45%"/>
     </a>
     <a href="https://github.com/boygong/test-online">
-    	<img src="https://github-readme-stats.vercel.app/api/pin/?username=boygong&repo=test-online" alt="TestOnline Card" width="45%"/>
+    	<img src="https://github-readme-stats.vercel.app/api/pin/?username=boygong&repo=test-online&theme=tokyonight" alt="TestOnline Card" width="45%"/>
     </a>
 </div>
 
