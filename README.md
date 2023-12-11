@@ -7,20 +7,19 @@
     <h4>
         I'm YuanKang Gong, a student from China.
     </h4>
-    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=boygong&theme=tokyonight-duo&border_radius=4.8&date_format=j%20M%5B%20Y%5D&card_width=400" alt="boygong's github"/></a>
+    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=boygong&theme=tokyonight" alt="boygong's github" width="50%"/></a>
     -
     <a href='#'>
-    	<img src="https://github-readme-stats.vercel.app/api?username=boygong&show_icons=true&theme=tokyonight" alt="boygong's github"  />
+    	<img src="https://github-readme-stats.vercel.app/api?username=boygong&show_icons=true&theme=tokyonight" alt="boygong's github" width="47%" />
     </a>
 </div>
-
 
 -   :heart: Computer, Physics, Mathematics
 -   :email: [Yuankang.Gong](mailto:2270499893@qq.com)
 -   :hammer_and_pick: Java,Spring,Mybatis, Vue,C++...
 -   :computer: IntelliJ IDEA,VsCode,Google Chrome
 
-**contributions**
+**:bulb:Contributions**
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=boygong&theme=dracula"/>
 
@@ -43,6 +42,7 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 </div>
 
+
 **🗂️ My Projects**
 
 <div align="center">
@@ -53,6 +53,7 @@
     	<img src="https://github-readme-stats.vercel.app/api/pin/?username=boygong&repo=test-online&theme=tokyonight" alt="TestOnline Card" width="45%"/>
     </a>
 </div>
+
 
 **📫 How to reach me:**
 
@@ -70,7 +71,8 @@
 
 ------
 
-**摸鱼**
+:dart:**摸鱼**
 
-<img src="./assets/qianshu.gif" style="width:95%;height:350px"/>
+<img src="./assets/qianshu.gif" width="100%"/>
 
+<img src="./assets/Cache_-2005800c9e115675.jpg" />
